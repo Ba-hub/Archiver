@@ -1,6 +1,11 @@
 # Archiver
 Extract &amp; Compose Files or Folder 
 
+## Installation Process 
+```
+Just Run ~ bash Archive.sh 
+```
+
 ## Tools Preview 
 ```
  [∆]   Checking Completed ✓
